@@ -18,3 +18,9 @@ i am in dev branch!
 creating a new branch is quick & simple!
 
 git checkout -b dev!commit --no-ff
+
+i`am  working in dev branch!
+
+git branch -d feature1 over!
+
+now to issue 101!
