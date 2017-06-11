@@ -14,3 +14,5 @@ vi test esc + shift zz // shift zz!
 now i will test git!try zhe stage!
 
 i am in dev branch!
+
+creating a new branch is quick & simple!
