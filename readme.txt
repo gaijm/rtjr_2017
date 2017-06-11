@@ -7,7 +7,7 @@ git tracks change.
 
 git tracks change files.
 
-vi test!
+vi test over!
 
 vi test esc + shift zz // shift zz!
 
