@@ -16,3 +16,5 @@ now i will test git!try zhe stage!
 i am in dev branch!
 
 creating a new branch is quick & simple!
+
+git checkout -b dev!commit --no-ff
